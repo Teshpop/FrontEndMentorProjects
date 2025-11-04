@@ -1,9 +1,13 @@
 import React from "react";
+import {Hero} from './Pages'
+import {NavBar} from './Components'
 
 const App = () => {
   return (
     <>
-      Home About Contact Blog Careers Request Invite Next generation digital
+        <NavBar />
+        <Hero />
+         {/*Next generation digital
       banking Take your financial life online. Your Digitalbank account will be
       a one-stop-shop for spending, saving, budgeting, investing, and much more.
       Request Invite Why choose Digitalbank? We leverage Open Banking to turn
@@ -27,14 +31,15 @@ const App = () => {
       live! After a lot of hard work by the whole team, we’re excited to launch
       our closed beta. It’s easy to request an invite through the site ... About
       Us Contact Blog Careers Support Privacy Policy Request Invite ©
-      Digitalbank. All Rights Reserved
-      <div class="attribution">
+      Digitalbank. All Rights Reserved*/}
+
+      {/*<div class="attribution">
         Challenge by{" "}
         <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">
           Frontend Mentor
         </a>
         . Coded by <a href="#">Pedro Tello</a>.
-      </div>
+      </div>*/}
     </>
   );
 };
