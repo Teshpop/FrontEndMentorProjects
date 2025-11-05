@@ -7,9 +7,7 @@ const App = () => {
     <>
         <NavBar />
         <Hero />
-         {/*Next generation digital
-      banking Take your financial life online. Your Digitalbank account will be
-      a one-stop-shop for spending, saving, budgeting, investing, and much more.
+         {/*
       Request Invite Why choose Digitalbank? We leverage Open Banking to turn
       your bank account into your financial hub. Control your finances like
       never before. Online Banking Our modern web and mobile applications allow

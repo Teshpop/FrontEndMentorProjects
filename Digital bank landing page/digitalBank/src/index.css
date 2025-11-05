@@ -3,6 +3,8 @@
 
 *
 {
+    margin: 0;
+
     font-family: "Public Sans", sans-serif;
     font-optical-sizing: auto;
     font-weight: 400;
@@ -21,7 +23,9 @@
     --color-gray-600: hsl(233, 8%, 62%);
     --color-gray-100: hsl(220, 16%, 96%);
     --color-gray-50: hsl(0, 0%, 98%);
-    --color-white: hsl(0, 100%, 100%)
+    --color-white: hsl(0, 100%, 100%);
+
+    --color-black: hsl(0, 0%, 0%);
 }
 
 .bg-button
